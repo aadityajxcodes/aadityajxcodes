@@ -2,7 +2,7 @@
 - 👀 I’m interested in Doing an INTERNSHIP In FRONTEND DEVELOPMENT
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Frontend project
-- 📫 How to reach me Mail : aadityajaiswalofficial@gmil.com
+- 📫 How to reach me Mail : aadityajaiswalofficial@gmail.com  Contact No. : 8602264797
 - 😄 Pronouns: He/Him
 
 
